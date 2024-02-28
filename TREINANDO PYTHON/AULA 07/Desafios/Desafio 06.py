@@ -1,0 +1,7 @@
+n1 = float(input("Digite um número: "))
+dobro = (n1 * 2)
+triplo = (n1 * 3)
+raiz = n1 ** (1/2)
+print(f"O Dobro do número digitado é que vale: {dobro}")
+print(f"O Triplo do número digitado é que vale: {triplo}")
+print(f"A Raiz Quadrada do número digitado é que vale: {raiz}")
